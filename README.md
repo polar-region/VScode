@@ -1,1 +1,1 @@
-# 这是Windows中用Dev-Cpp+VScode编写Cpp的
+# 这是Windows中用Dev-Cpp+VScode编写Cpp的格式要求
